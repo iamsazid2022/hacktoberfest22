@@ -83,7 +83,7 @@ section .title::after{
     width: 100%;
     z-index: 999;
     padding: 30px 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Web Developement', sans-serif;
     transition: all 0.3s ease;
 }
 .navbar.sticky{
@@ -265,7 +265,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what we provide";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -302,7 +302,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "what we know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
